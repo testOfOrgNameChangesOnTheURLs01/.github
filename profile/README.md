@@ -2,6 +2,8 @@
 
 SUCCESS!!
 
+Org GitHub pages: https://testoforgnamechangesontheurls01.github.io
+
 <!--
 
 **Here are some ideas to get you started:**
