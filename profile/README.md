@@ -1,6 +1,7 @@
-## Hi there 👋
+## Github pages readme for the org
 
-GitHub pages at  https://testoforgnamechangesontheurls01.github.io/
+SUCCESS!!
+
 <!--
 
 **Here are some ideas to get you started:**
